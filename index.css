@@ -87,7 +87,7 @@ body {
   font-size: 48px;
 }
 
-.cards {
+.cards, .calendar {
   width: 100%;
 }
 
